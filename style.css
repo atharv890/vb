@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-color: Black;
+
+}
+
+img {
+    width: 600px;
+    heigth: 600px;
+}
+
+#bottle {
+    font-size: 40px;
+    font-famly: cursive;
+    color: White;
+}
+
+#say {
+    font-size: 30px;
+    color: aqua;
+}
